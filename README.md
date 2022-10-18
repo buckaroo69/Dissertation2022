@@ -10,12 +10,12 @@ Due to privacy concerns my [developer journal](https://docs.google.com/document/
 Any entity that requires access should use Google Docs' built-in permission request feature.
 
 ## Relevant Papers
-List of papers that this project took inspiration from:
+Papers read in preparation for this project:
 - [Whose Vote Should Count More:
 Optimal Integration of Labels from Labelers of
 Unknown Expertise
 ](https://papers.nips.cc/paper/2009/file/f899139df5e1059396431415e770c6dd-Paper.pdf)
 - [Enhanced Nearest Neighbor Classification for Crowdsourcing](https://arxiv.org/abs/2203.00781)
-
+- [A Crowdsourcing-based Medical Image Classification Method](https://ieeexplore.ieee.org/document/8983103)
 
 unread but possibly relevant papers will be listed as issues in this repository
