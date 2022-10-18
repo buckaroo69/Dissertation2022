@@ -15,5 +15,7 @@ List of papers that this project took inspiration from:
 Optimal Integration of Labels from Labelers of
 Unknown Expertise
 ](https://papers.nips.cc/paper/2009/file/f899139df5e1059396431415e770c6dd-Paper.pdf)
+- [Enhanced Nearest Neighbor Classification for Crowdsourcing](https://arxiv.org/abs/2203.00781)
+
 
 unread but possibly relevant papers will be listed as issues in this repository
