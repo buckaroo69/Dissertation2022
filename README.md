@@ -17,5 +17,7 @@ Unknown Expertise
 ](https://papers.nips.cc/paper/2009/file/f899139df5e1059396431415e770c6dd-Paper.pdf)
 - [Enhanced Nearest Neighbor Classification for Crowdsourcing](https://arxiv.org/abs/2203.00781)
 - [A Crowdsourcing-based Medical Image Classification Method](https://ieeexplore.ieee.org/document/8983103)
+- [Improving Classification Accuracy in Crowdsourcing
+through Hierarchical Reorganization](https://ieeexplore.ieee.org/document/8258467)
 
 unread but possibly relevant papers will be listed as issues in this repository
