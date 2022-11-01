@@ -19,5 +19,6 @@ Unknown Expertise
 - [A Crowdsourcing-based Medical Image Classification Method](https://ieeexplore.ieee.org/document/8983103)
 - [Improving Classification Accuracy in Crowdsourcing
 through Hierarchical Reorganization](https://ieeexplore.ieee.org/document/8258467)
+- [Reputation management in crowdsourcing systems](https://ieeexplore.ieee.org/document/6450966)
 
 unread but possibly relevant papers will be listed as issues in this repository
